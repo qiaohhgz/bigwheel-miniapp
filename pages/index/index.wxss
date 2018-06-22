@@ -1,0 +1,8 @@
+/* pages/main/main.wxss */
+page{
+  height: 100%;
+}
+
+canvas{
+  border: solid 0px black
+}

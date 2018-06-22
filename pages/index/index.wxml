@@ -1,0 +1,1 @@
+<canvas style='width: {{windowWidth}}px; height: {{windowHeight}}px' disable-scroll="true" bindtouchstart="canvasTouchStart" bindtouchmove="touchMove" bindtouchend="canvasTouchEnd" canvas-id="canvas"></canvas>
