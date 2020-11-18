@@ -310,7 +310,8 @@ Circle.prototype.draw = function (context) {
 
 ### 其他推荐
 微信小程序-欢乐夹娃娃 https://blog.100boot.cn/post/3067
-![](https://blog.100boot.cn/storage/thumbnails/_signature/3BOB1SHI40IS2F9PAFCJKON5SC.png)
+
+![微信小程序-欢乐夹娃娃](https://blog.100boot.cn/storage/thumbnails/_signature/3BOB1SHI40IS2F9PAFCJKON5SC.png)
 
 ### 完整代码
 GitHub 地址: https://github.com/qiaohhgz/bigwheel-miniapp
